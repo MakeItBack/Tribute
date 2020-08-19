@@ -1,6 +1,6 @@
 # Tribute Page
-**A tribute to a classic woodworking hand tool. A project built as part of the Responsive Web Design course (freeCodeCamp).**<br>
-(I also like making things out of wood)
+**A tribute to a classic woodworking hand tool (I also like making things out of wood).**<br>
+A project built as part of the Responsive Web Design course (freeCodeCamp).
 
 [Deployed](https://record-tribute.netlify.app/) with Netlify
 
