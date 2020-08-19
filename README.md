@@ -1,4 +1,4 @@
-# A Tribute Page
+# Tribute Page
 **A tribute to a classic woodworking hand tool. A project built as part of the Responsive Web Design course (freeCodeCamp).**<br>
 (I also like making things out of wood)
 
