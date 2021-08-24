@@ -5,7 +5,7 @@ A project built as part of the Responsive Web Design course (freeCodeCamp).
 
 ---
 
-<img width="800" src="Tribute%20screenshot.jpg" alt="Screenshot of the tribute page">
+<img width="800" src="img/Tribute%20screenshot.jpg" alt="Screenshot of the tribute page">
 
 ---
 
